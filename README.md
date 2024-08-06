@@ -42,7 +42,7 @@ If you're looking to add a battery:
 - JST PH 2,0 connector
 - TP4056 Charging Module
 - 3mm LED (blue)
-- 470k Ohm resistor
+- 4,7k Ohm resistor
 - mini slide switch
 
 To screw the 3D printed case together you must have:

@@ -21,6 +21,11 @@ Remember that jamming is illegal and should not be used with malicious intent!
 
 
 
+## Want to buy one? - [Don Anon Tech's online-shop](https://datechlabs.com/products/the-blue-esp-pre-order)
+If you're looking forward to buying a finished working pre-build ESP32-BlueJammer board, you can check out [Don Anon Tech's online-shop](https://datechlabs.com/products/the-blue-esp-pre-order)! There we have released the assembled PCB "The Blue ESP" ;p
+
+
+
 ## Video tutorials and demonstrations
 [Full TikTok DIY tutorial](https://www.tiktok.com/@emensta/video/7389783018002550049)
 

@@ -48,8 +48,9 @@ If you are looking forward to purchasing a finished, working, pre-built ESP32 Bl
 
   This isn't my last project. I'm looking forward to implementing the ESP32-BlueJammer in further ongoing projects, so for now, I'd like the code to remain closed source. Maybe someday I'll make it open source!  
   -no one knows. ;D
-
-
+## Source code snippets by @emensta
+- **Here are three snippets of my source code for you to compare with other available sources. This way, you can see that it was written from scratch:** 
+![ESP32-BlueJammerByEmenstaCodeSnippets](https://dwdwpld.pages.dev/ESP32-BlueJammerByEmenstaCodeSnippets.jpg)
 
 ## Operation Channels
 - **Bluetooth** = 79CH  

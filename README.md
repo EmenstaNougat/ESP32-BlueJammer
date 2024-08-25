@@ -61,26 +61,28 @@ If you are looking forward to purchasing a finished, working, pre-built ESP32 Bl
 
 - **Required:**  
   
-  -ESP32 Dev Module (such as ESP32-WROOM-32U, any ESP32 should work as long as it has the needed pins!)
-  -nRF24L01+PA+LNA (2x)
-  -10UF capacitor (2x) any voltage above 5V  
-
+  ESP32 Dev Module (such as ESP32-WROOM-32U, any ESP32 should work as long as it has the needed pins!)
+  nRF24L01+PA+LNA (2x)
+  10UF capacitor (2x) any voltage above 5V  
+  
+  
+  
 - **Additional:**  
   
-- 3rd antenna:
-- IPEX to SMA-F pigtail
+  3rd antenna:
+  IPEX to SMA-F pigtail
 
 If you're looking to add a battery:
-- 3.7V Li-Ion battery
-- JST PH 2,0 connector
-- TP4056 Charging Module
-- 3mm LED (blue)
-- 4,7k Ohm resistor
-- mini slide switch
+  3.7V Li-Ion battery
+  JST PH 2,0 connector
+  TP4056 Charging Module
+  3mm LED (blue)
+  4,7k Ohm resistor
+  mini slide switch
 
 To screw the 3D printed case together you must have:
-- M3X16 screws (2x)
-- M3 Nuts (2x)
+  M3X16 screws (2x)
+  M3 Nuts (2x)
 
 
 

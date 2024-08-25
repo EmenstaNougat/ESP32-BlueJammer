@@ -147,15 +147,15 @@ Here are both pinouts for HSPI and VSPI. You need both nRF24L01 modules connecte
 | IRQ           |                  |
 
 ### Battery mod (optional)
-| 3.7V Li-Ion battery | JST-PH2 connector    | TP4056 Charging Module | Mini Slide Switch | ESP32 | 4.7k Ohm Resistor | 3mm LED (blue)     |
-|---------------------|----------------------|------------------------|-------------------|-------|-------------------|--------------------|
-| (+) Battery         | (+) JST-PH2          | Bat +                  |                   |       |                   |                    |
-| (-) Battery         | (-) JST-PH2          | Bat -                  |                   |       |                   |                    |
-|                     |                      | OUT +                  | Switch in         |       |                   |                    |
-|                     |                      | OUT -                  |                   |  GND  |                   |      (-) LED       |
-|                     |                      |                        | Switch out        |  3V3  |      Resistor     |                    |
-|                     |                      |                        |                   |       |      Resistor     |      (+) LED       |                      
-
+| 3.7V Li-Ion battery | JST-PH2 connector    | TP4056 Charging Module | Mini Slide Switch | ESP32 | 4.7k Ohm Resistor | 3mm Status LED (blue)|
+|---------------------|----------------------|------------------------|-------------------|-------|-------------------|----------------------|
+| (+) Battery         | (+) JST-PH2          | Bat +                  |                   |       |                   |                      |
+| (-) Battery         | (-) JST-PH2          | Bat -                  |                   |       |                   |                      |
+|                     |                      | OUT +                  | Switch in         |       |                   |                      |
+|                     |                      | OUT -                  |                   |  GND  |                   |       (-) LED        |
+|                     |                      |                        | Switch out        |  3V3  |                   |                      |
+|                     |                      |                        |                   |       |      Resistor     |       (+) LED        |
+|                     |                      |                        |                   |GPIO27 |      Resistor     |                      |
 
 
 ### Schematics

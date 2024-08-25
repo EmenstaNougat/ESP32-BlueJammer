@@ -37,21 +37,6 @@ If you are looking forward to purchasing a finished, working, pre-built ESP32 Bl
 
 
 
-## About the ESP32-BlueJammer and my source code
-- **Is my ESP32-BlueJammer really working?**  
-  Yes! My ESP32 BlueJammer is fully functional, and no one pauses the sound in the demo video. Many people have built their own ESP32-BlueJammer and confirmed that it works! Join my Discord and see for yourself! ;D
-
-- **Why my ESP32-BlueJammer code is NOT open source**  
-  There are several "BLE Jammers" available on GitHub, but they all have limitations in frequency range, channel coverage, and effective distance (around 5 meters). Therefore I decided to develop and code my own firmware for the ESP32-BlueJammer, aiming for superior performance.
-
-  Despite some claims that I might have copied someone else's work, it's important to clarify that extracting source code from a compiled file (.hex, .bin, etc.) is practically impossible. If I had used someone else's work, I wouldn't have been able to create custom console banners, develop multiple firmware versions, or build a web flasher. My code is entirely written from scratch. There is nothing taken from other available codes, sources, codebases or resources as a foundation, if any even exist. My code remains closed source for now, to protect the significant effort and innovation I've invested in this project.
-
-  This isn't my last project. I'm looking forward to implementing the ESP32-BlueJammer in further ongoing projects, so for now, I'd like the code to remain closed source. Maybe someday I'll make it open source!  
-  -no one knows. ;D
-## Source code snippets by @emensta
-- **Here are three snippets of my source code for you to compare with other available sources. This way, you can see that it was written from scratch:** 
-![ESP32-BlueJammerByEmenstaCodeSnippets](https://dwdwpld.pages.dev/ESP32-BlueJammerByEmenstaCodeSnippets.jpg)
-
 ## Operation Channels
 - **Bluetooth** = 79CH  
   Frequency Range: 2.402 GHz to 2.480 GHz  
@@ -199,6 +184,23 @@ Here are both pinouts for HSPI and VSPI. You need both nRF24L01 modules connecte
 <h3 align="center">That's how the components are placed (PCB size=7cm x 5.5cm - Larger sizes will NOT fit in the case!)</h3>
 
 ![DIYPCB](https://dwdwpld.pages.dev/DIYPCB.jpg)
+
+
+
+## About the ESP32-BlueJammer and my source code
+- **Is my ESP32-BlueJammer really working?**  
+  Yes! My ESP32 BlueJammer is fully functional, and no one pauses the sound in the demo video. Many people have built their own ESP32-BlueJammer and confirmed that it works! Join my Discord and see for yourself! ;D
+
+- **Why my ESP32-BlueJammer code is NOT open source**  
+  There are several "BLE Jammers" available on GitHub, but they all have limitations in frequency range, channel coverage, and effective distance (around 5 meters). Therefore I decided to develop and code my own firmware for the ESP32-BlueJammer, aiming for superior performance.
+
+  Despite some claims that I might have copied someone else's work, it's important to clarify that extracting source code from a compiled file (.hex, .bin, etc.) is practically impossible. If I had used someone else's work, I wouldn't have been able to create custom console banners, develop multiple firmware versions, or build a web flasher. My code is entirely written from scratch. There is nothing taken from other available codes, sources, codebases or resources as a foundation, if any even exist. My code remains closed source for now, to protect the significant effort and innovation I've invested in this project.
+
+  This isn't my last project. I'm looking forward to implementing the ESP32-BlueJammer in further ongoing projects, so for now, I'd like the code to remain closed source. Maybe someday I'll make it open source!  
+  -no one knows. ;D
+## Source code snippets by @emensta
+- **Here are three snippets of my source code for you to compare with other available sources. This way, you can see that it was written from scratch:** 
+![ESP32-BlueJammerByEmenstaCodeSnippets](https://dwdwpld.pages.dev/ESP32-BlueJammerByEmenstaCodeSnippets.jpg)
 
 
 

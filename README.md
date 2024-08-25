@@ -59,14 +59,12 @@ If you are looking forward to purchasing a finished, working, pre-built ESP32 Bl
 
 ## Hardware
 
-- **Required:**
-- 
+- **Required:**  
 - ESP32 Dev Module (such as ESP32-WROOM-32U, any ESP32 should work as long as it has the needed pins!)
 - nRF24L01+PA+LNA (2x)
-- 10UF capacitor (2x) any voltage above 5V
+- 10UF capacitor (2x) any voltage above 5V  
 
-- **Additional:**
-- 
+- **Additional:**  
 3rd antenna:
 - IPEX to SMA-F pigtail
 

@@ -88,7 +88,7 @@ If you are looking forward to purchasing a finished, working, pre-built ESP32 Bl
 ## Antennas
 A frequently asked question is whether the antennas are needed and what the third antenna is for, here is the answer:
 Yes, you need at least both antennas for the nRF24's! Why? To have it working on a decent range!
-The average range with standart known chinese 2.4GHz antennas is about 20meters. Upgrading those antennas will help a lot with getting more range!
+The average range with standard known chinese 2.4GHz antennas is about 20meters. Upgrading those antennas will help a lot with getting more range!
 
 2 antennas are for the HSPI and VSPI nRF24 modules!
 

@@ -145,7 +145,7 @@ Here are both pinouts for HSPI and VSPI. You need both nRF24L01 modules connecte
 |       |      Resistor     |       (+) LED        |
 |GPIO27 |      Resistor     |                      |
 
-### Additional modifications (battery)
+### Battery modification (additional)
 | 3.7V Li-Ion battery | JST-PH2 connector    | TP4056 Charging Module | Mini Slide Switch | ESP32 |
 |---------------------|----------------------|------------------------|-------------------|-------|
 | (+) Battery         | (+) JST-PH2          | Bat +                  |                   |       |

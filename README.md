@@ -153,8 +153,6 @@ Here are both pinouts for HSPI and VSPI. You need both nRF24L01 modules connecte
 |                     |                      | OUT +                  | Switch in         |       |
 |                     |                      | OUT -                  |                   |  GND  |
 |                     |                      |                        | Switch out        |  3V3  |
-|                     |                      |                        |                   |       |
-|                     |                      |                        |                   |GPIO27 |
 
 
 ### Schematics

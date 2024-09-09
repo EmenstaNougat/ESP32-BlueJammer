@@ -23,6 +23,7 @@ Remember that jamming is illegal and should not be used with malicious intent!
 
 ## Want to buy one? - [Don Anon Tech's online-shop](https://datechlabs.com/products/the-blue-esp-pre-order)
 If you are looking forward to purchasing a finished, working, pre-built ESP32 BlueJammer board, you can check out [Don Anon Tech's online-shop](https://datechlabs.com/products/the-blue-esp-pre-order)! There we published the assembled PCB “The Blue ESP” "The Blue ESP" ;p
+![TheBlueESP](https://dwdwpld.pages.dev/TheBlueESP.png)
 
 
 
@@ -67,15 +68,15 @@ If you are looking forward to purchasing a finished, working, pre-built ESP32 Bl
 
 ### Additional:
 
-- **3rd Antenna:** IPEX to SMA-F pigtail
+- **for 3rd Antenna:** IPEX to SMA-F pigtail
+- **Status LED:** 3mm LED
+- **4.7k Ohm Resistor**
 
 ### If you're looking to add a battery:
 
 - **3.7V Li-Ion Battery**
 - **JST PH 2.0 Connector**
 - **TP4056 Charging Module**
-- **3mm LED** (blue)
-- **4.7k Ohm Resistor**
 - **Mini Slide Switch**
 
 ### To screw the 3D printed case together you must have:
@@ -88,7 +89,7 @@ If you are looking forward to purchasing a finished, working, pre-built ESP32 Bl
 ## Antennas
 A frequently asked question is whether the antennas are needed and what the third antenna is for, here is the answer:
 Yes, you need at least both antennas for the nRF24's! Why? To have it working on a decent range!
-The average range with standart known chinese 2.4GHz antennas is about 20meters. Upgrading those antennas will help a lot with getting more range!
+The average range with standard known chinese 2.4GHz antennas is about 20meters. Upgrading those antennas will help a lot with getting more range!
 
 2 antennas are for the HSPI and VSPI nRF24 modules!
 
@@ -137,16 +138,24 @@ Here are both pinouts for HSPI and VSPI. You need both nRF24L01 modules connecte
 | MISO          | GPIO 19          |
 | IRQ           |                  |
 
-### Battery mod (optional)
-| 3.7V Li-Ion battery | JST-PH2 connector    | TP4056 Charging Module | Mini Slide Switch | ESP32 | 4.7k Ohm Resistor | 3mm Status LED (blue)|
-|---------------------|----------------------|------------------------|-------------------|-------|-------------------|----------------------|
-| (+) Battery         | (+) JST-PH2          | Bat +                  |                   |       |                   |                      |
-| (-) Battery         | (-) JST-PH2          | Bat -                  |                   |       |                   |                      |
-|                     |                      | OUT +                  | Switch in         |       |                   |                      |
-|                     |                      | OUT -                  |                   |  GND  |                   |       (-) LED        |
-|                     |                      |                        | Switch out        |  3V3  |                   |                      |
-|                     |                      |                        |                   |       |      Resistor     |       (+) LED        |
-|                     |                      |                        |                   |GPIO27 |      Resistor     |                      |
+### Status LED
+| ESP32 | 4.7k Ohm Resistor | 3mm Status LED (blue)|
+|-------|-------------------|----------------------|
+|  GND  |                   |       (-) LED        |
+|       |                   |                      |
+|       |      Resistor     |       (+) LED        |
+|GPIO27 |      Resistor     |                      |
+
+### Additional modifications (battery)
+| 3.7V Li-Ion battery | JST-PH2 connector    | TP4056 Charging Module | Mini Slide Switch | ESP32 |
+|---------------------|----------------------|------------------------|-------------------|-------|
+| (+) Battery         | (+) JST-PH2          | Bat +                  |                   |       |
+| (-) Battery         | (-) JST-PH2          | Bat -                  |                   |       |
+|                     |                      | OUT +                  | Switch in         |       |
+|                     |                      | OUT -                  |                   |  GND  |
+|                     |                      |                        | Switch out        |  3V3  |
+|                     |                      |                        |                   |       |
+|                     |                      |                        |                   |GPIO27 |
 
 
 ### Schematics

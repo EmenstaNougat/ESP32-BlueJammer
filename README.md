@@ -68,8 +68,8 @@ If you are looking forward to purchasing a finished, working, pre-built ESP32 Bl
 
 ### Additional:
 
-- **for 3rd Antenna:** IPEX to SMA-F pigtail
-- **Status LED:** 3mm LED
+- 3rd Antenna: **IPEX to SMA-F pigtail**
+- Status LED: **3mm LED**
 - **4.7k Ohm Resistor**
 
 ### If you're looking to add a battery:

@@ -142,7 +142,6 @@ Here are both pinouts for HSPI and VSPI. You need both nRF24L01 modules connecte
 | ESP32 | 4.7k Ohm Resistor | 3mm Status LED (blue)|
 |-------|-------------------|----------------------|
 |  GND  |                   |       (-) LED        |
-|       |                   |                      |
 |       |      Resistor     |       (+) LED        |
 |GPIO27 |      Resistor     |                      |
 

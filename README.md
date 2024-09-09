@@ -217,7 +217,7 @@ Here are both pinouts for HSPI and VSPI. You need both nRF24L01 modules connecte
 
 
 ## Discord
-You can join my Discord server [here](https://discord.gg/yNGhKxzqUE)!
+You can join my Discord server [here](https://discord.gg/emensta)!
 
 
 

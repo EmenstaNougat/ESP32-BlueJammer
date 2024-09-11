@@ -21,11 +21,11 @@ Remember that jamming is illegal and should not be used with malicious intent!
 
 
 
-## Want to buy one? - [Don Anon Tech's online-shop](https://datechlabs.com/products/the-blue-esp-pre-order)
+## Want to buy one? - [Don Anon Tech's online-shop](https://datechlabs.com)
 **DIY-PCB:**  
 For this one, all you need is just one ESP32-WROOM-32 module and two nRF24 modules. Place the hardware, solder the pins and you're ready to flash and use it! :D
 ![DIY-PCB](https://dwdwpld.pages.dev/ESP32-BlueJammer-DIY-PCB.jpg)
-[Shop]()
+[Shop](notavailable)
 !!! AVAILABLE SOON !!!
 
 **PRE-SOLDERED:**  

@@ -25,8 +25,7 @@ Remember that jamming is illegal and should not be used with malicious intent!
 **DIY-PCB:**  
 For this one, all you need is just one ESP32-WROOM-32 module and two nRF24 modules. Place the hardware, solder the pins and you're ready to flash and use it! :D
 ![DIY-PCB](https://dwdwpld.pages.dev/ESP32-BlueJammer-DIY-PCB.jpg)
-[Shop](notavailable)
-!!! AVAILABLE SOON !!!
+[Shop](https://datechlabs.com/products/blue-esp-diy-pcb-back-order)
 
 **PRE-SOLDERED:**  
 This is a finished pre-built ESP32-BlueJammer PCB. It is available as "The Blue ESP" ;p

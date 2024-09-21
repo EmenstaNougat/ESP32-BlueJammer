@@ -24,6 +24,7 @@ Remember that jamming is illegal and should not be used with malicious intent!
 ## Want to buy one? - [Don Anon Tech's online-shop](https://datechlabs.com)
 **DIY-PCB:**  "Blue ESP DIY PCB"  
 For this one, all you need is listed here:  
+
 **Required:**  
 - ESP32 Dev Module (such as ESP32-WROOM-32U, any ESP32 should work as long as it has the needed pins!)  
 - nRF24L01+PA+LNA (2x)  

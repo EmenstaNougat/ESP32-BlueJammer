@@ -83,7 +83,7 @@ This is a finished pre-built ESP32-BlueJammer PCB. It is available as "The Blue 
 
 - **3.7V Li-Ion Battery**
 - **JST PH 2.0 Connector**
-- **TP4056 Charging Module**
+- **TP4056 Charging Module (Micro-USB/Type-C)**
 - **Mini Slide Switch**
 
 ### To screw the 3D printed case together you must have:

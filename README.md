@@ -22,7 +22,7 @@ Remember that jamming is illegal and should not be used with malicious intent!
 
 
 ## Want to buy one? - [Don Anon Tech's online-shop](https://datechlabs.com)
-**DIY-PCB:**  "Blue ESP DIY PCB"
+**DIY-PCB:**  "Blue ESP DIY PCB"  
 For this one, all you need is listed here:
 Required:  
 - ESP32 Dev Module (such as ESP32-WROOM-32U, any ESP32 should work as long as it has the needed pins!)  
@@ -35,7 +35,7 @@ Additional:
 ![DIY-PCB](https://dwdwpld.pages.dev/ESP32-BlueJammer-DIY-PCB.jpg)
 [Shop](https://datechlabs.com/products/blue-esp-diy-pcb-back-order)
 
-**PRE-SOLDERED:**  "The Blue ESP"
+**PRE-SOLDERED:**  "The Blue ESP"  
 This is a finished pre-built ESP32-BlueJammer PCB.
 ![TheBlueESP](https://dwdwpld.pages.dev/TheBlueESP.png)
 [Shop](https://datechlabs.com/products/the-blue-esp-pre-order)

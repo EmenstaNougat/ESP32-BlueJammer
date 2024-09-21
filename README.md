@@ -22,13 +22,21 @@ Remember that jamming is illegal and should not be used with malicious intent!
 
 
 ## Want to buy one? - [Don Anon Tech's online-shop](https://datechlabs.com)
-**DIY-PCB:**  
-For this one, all you need is just one ESP32-WROOM-32 module and two nRF24 modules. Place the hardware, solder the pins and you're ready to flash and use it! :D
+**DIY-PCB:**  "Blue ESP DIY PCB"
+For this one, all you need is listed here:
+Required:  
+- ESP32 Dev Module (such as ESP32-WROOM-32U, any ESP32 should work as long as it has the needed pins!)  
+- nRF24L01+PA+LNA (2x)  
+Additional:  
+- TP4056 Charging Module (Micro-USB/Type-C)  
+- JST PH 2.0 Connector  
+- 3.7V Li-Ion Battery  
+- 3rd Antenna: IPEX to SMA-F pigtail  
 ![DIY-PCB](https://dwdwpld.pages.dev/ESP32-BlueJammer-DIY-PCB.jpg)
 [Shop](https://datechlabs.com/products/blue-esp-diy-pcb-back-order)
 
-**PRE-SOLDERED:**  
-This is a finished pre-built ESP32-BlueJammer PCB. It is available as "The Blue ESP" ;p
+**PRE-SOLDERED:**  "The Blue ESP"
+This is a finished pre-built ESP32-BlueJammer PCB.
 ![TheBlueESP](https://dwdwpld.pages.dev/TheBlueESP.png)
 [Shop](https://datechlabs.com/products/the-blue-esp-pre-order)
 

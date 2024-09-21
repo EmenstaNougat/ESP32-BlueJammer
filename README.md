@@ -37,6 +37,8 @@ For this one, all you need is listed below:
 ![DIY-PCB](https://dwdwpld.pages.dev/ESP32-BlueJammer-DIY-PCB.jpg)
 [Shop](https://datechlabs.com/products/blue-esp-diy-pcb-back-order)
 
+---
+
 **PRE-SOLDERED:**  "The Blue ESP"  
 This is a finished pre-built ESP32-BlueJammer PCB.
 

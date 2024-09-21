@@ -39,6 +39,10 @@ For this one, all you need is listed below:
 
 **PRE-SOLDERED:**  "The Blue ESP"  
 This is a finished pre-built ESP32-BlueJammer PCB.
+
+**Required:**  
+- nRF24L01+PA+LNA (2x)  
+Why do you need to get the nRF24's? -> the pinout can be used to connect either nRF24 or CC1101 modules for further experiments with and ESP32 chip.
 ![TheBlueESP](https://dwdwpld.pages.dev/TheBlueESP.png)
 [Shop](https://datechlabs.com/products/the-blue-esp-pre-order)
 

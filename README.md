@@ -26,7 +26,7 @@ Remember that jamming is illegal and should not be used with malicious intent!
 For this one, all you need is listed below:  
 
 **Required:**  
-- ESP32 Dev Module (such as ESP32-WROOM-32U, any ESP32 should work as long as it has the needed pins!)  
+- ESP32 Dev Module (such as ESP32-WROOM-32U, any ESP32 should work as long as it has the needed pins, 38P is recommended!)  
 - nRF24L01+PA+LNA (2x)  
 
 **Additional:**  
@@ -81,13 +81,14 @@ Why do you need to get the nRF24's? -> the pinout can be used to connect either 
 
 
 
-## Hardware
+## Hardware - Make your own ESP32-BlueJammer
 
 ### Required:
 
-- **ESP32 Dev Module** (such as ESP32-WROOM-32U, any ESP32 should work as long as it has the needed pins!)
+- **ESP32 Dev Module** (such as ESP32-WROOM-32U, any ESP32 should work as long as it has the needed pins, 38P is recommended!)
 - **nRF24L01+PA+LNA** (2x)
 - **10uF Capacitor** (2x) (any voltage above 5V)
+- **Prototype PCB (at least 7x9 cm, but you will need to cut it down to fit the 3D-printed case, which fits a size of 7x5,5cm!)
 
 ### Additional:
 
@@ -130,7 +131,7 @@ I've created a webflasher to make it super easy for you to flash your ESP32 chip
 - Choose your firmware, chip and connect
 - Flash the firmware of your choice :D
 
-If your ESP32 is not showing up in the device list or won't get recognized you will need to have [THESE DRIVERS INSTALLED](https://discord.com/channels/1229027335534153791/1260705681254645891/1268921897052012574) which can be found on my [Discord server](https://discord.gg/yNGhKxzqUE)!
+If your ESP32 is not showing up in the device list or won't get recognized you will need to have [THESE DRIVERS INSTALLED](https://www.silabs.com/documents/public/software/CP210x_Windows_Drivers.zip) which can be found on my [Discord server](https://discord.gg/yNGhKxzqUE) too!
 
 
 

@@ -88,7 +88,7 @@ Why do you need to get the nRF24's? -> the pinout can be used to connect either 
 - **ESP32 Dev Module** (such as ESP32-WROOM-32U, any ESP32 should work as long as it has the needed pins, 38P is recommended!)
 - **nRF24L01+PA+LNA** (2x)
 - **10uF Capacitor** (2x) (any voltage above 5V)
-- **Prototype PCB (at least 7x9 cm, but you will need to cut it down to fit the 3D-printed case, which fits a size of 7x5,5cm!)
+- **Prototype PCB** (at least 7x9 cm, but you will need to cut it down to fit the 3D-printed case, which fits a size of 7x5,5cm!)
 
 ### Additional:
 

@@ -51,13 +51,21 @@ Why do you need to get the nRF24's? -> the pinout can be used to connect either 
 
 
 ## Video tutorials and demonstrations
-[Full TikTok DIY tutorial](https://www.tiktok.com/@emensta/video/7389783018002550049)
+[Full DIY assembling video tutorial](https://www.tiktok.com/@emensta/video/7389783018002550049)
 
-[DIY Video tutorial (if the TikTok is not available for you)](https://www.mediafire.com/file/mgb3wicdifkq1ce/ESP32-BlueJammerByEmensta-DIYTutorial.mp4/file)
+[Full DIY assembling video tutorial (if the TikTok is not available for you)](https://www.mediafire.com/file/mgb3wicdifkq1ce/ESP32-BlueJammerByEmensta-DIYTutorial.mp4/file)
 
-[TikTok Demonstration](https://vm.tiktok.com/ZGec5Mqg7/)
+---
 
-[TikTok Demonstration (if the TikTok is not available for you)](https://www.mediafire.com/file/xgru01ihbw26mfu/ESP32-BlueJammerByEmensta-Demonstration.mp4/file)
+[Demonstration](https://vm.tiktok.com/ZGec5Mqg7/)
+
+[Demonstration (if the TikTok is not available for you)](https://www.mediafire.com/file/xgru01ihbw26mfu/ESP32-BlueJammerByEmensta-Demonstration.mp4/file)
+
+---
+
+[Flashing process](https://www.tiktok.com/@emensta/video/7413509704401292577)
+
+[Flashing process (if the TikTok is not available for you)](https://www.mediafire.com/file/2aj4hmf9zt7w6sw/ESP32-BlueJammerByEmensta-FlashingProcess.mp4/file)
 
 
 

@@ -258,10 +258,6 @@ Here you can visit my Portfolio, you'll find everything that you're looking for 
 
 
 
-## Donate
-If you enjoy what I do and want to support me in creating more content and sharing new ideas, feel free to support me!                                         
-[PayPal.me](https://www.paypal.me/emensta)
-
 <h1 align="center"> DISCLAIMER </h1>
 
 <h4 align="center">Please note that the use of this tool is entirely at your own risk. It is intended strictly for educational purposes and should not be used for any illegal or unethical activities. Jamming is illegal and can get you in big trouble!</h4>

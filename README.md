@@ -69,7 +69,7 @@ Why do you need to get the nRF24's? -> the pinout can be used to connect either 
 
 [Flashing process (if the TikTok is not available for you)](https://www.mediafire.com/file/2aj4hmf9zt7w6sw/ESP32-BlueJammerByEmensta-FlashingProcess.mp4/file)
 
-
+---
 
 ## Operation Channels
 - **Bluetooth** = 79CH  

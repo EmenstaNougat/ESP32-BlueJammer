@@ -21,8 +21,10 @@ Remember that jamming is illegal and should not be used with malicious intent!
 
 
 
-## Want to buy one? - [Don Anon Tech's online-shop](https://datechlabs.com)
+## PCB's with ESP32 and RF-module capability - [Don Anon Tech's online-shop](https://datechlabs.com)
 **DIY-PCB:**  "Blue ESP DIY PCB"  
+This PCB can fit an ESP32 DevKit and 2 RF-modules such as nRF24 or CC1101 etc., you can use it in combinations (1x nRF, 1x CC1101) to create several things. 
+***Remember: It is not intended for illegal use, neither for my project!***  
 For this one, all you need is listed below:  
 
 **Required:**  
@@ -40,7 +42,7 @@ For this one, all you need is listed below:
 ---
 
 **PRE-SOLDERED:**  "The Blue ESP"  
-This is a finished pre-built ESP32-BlueJammer PCB.
+This is an ESP32 with RF-module breakouts (nRF24/CC1101 etc.) for experimenting. ***Remember: It is not intended for illegal use, neither for my project!***  
 
 **Required:**  
 - nRF24L01+PA+LNA (2x)  

@@ -4,7 +4,43 @@
   <h3 align="center">Jamming is ILLEGAL! Educational purposes only!</h3>
 </div>
 
+<div align="center">
+<a href="https://github.com/EmenstaNougat/ESP32-BlueJammer" title="Go to GitHub repo">
+  <img src="https://img.shields.io/static/v1?label=EmenstaNougat&message=ESP32-BlueJammer&color=purple&logo=github" alt="EmenstaNougat - ESP32-BlueJammer">
+</a>
+<a href="https://github.com/EmenstaNougat/ESP32-BlueJammer">
+  <img src="https://img.shields.io/github/stars/EmenstaNougat/ESP32-BlueJammer?style=social" alt="stars - ESP32-BlueJammer">
+</a>
+<a href="https://github.com/EmenstaNougat/ESP32-BlueJammer">
+  <img src="https://img.shields.io/github/forks/EmenstaNougat/ESP32-BlueJammer?style=social" alt="forks - ESP32-BlueJammer">
+</a>
+<a href="https://discord.gg/emensta-s-community-1229027335534153791" style="text-decoration: none;">
+  <img src="https://discord.com/api/guilds/1229027335534153791/widget.png?style=shield" alt="Discord Shield"/>
+</div>
 
+
+<h4 align="center">
+  <a href="https://github.com/EmenstaNougat/ESP32-BlueJammer#hardware---make-your-own-esp32-bluejammer">Make your own</a>
+    <span> | </span>
+  <a href="https://github.com/EmenstaNougat/ESP32-BlueJammer#esp32-nrf24l01-pinout--battery-mod">Schematics</a>
+    <span> | </span>
+  <a href="https://github.com/EmenstaNougat/ESP32-BlueJammer?tab=readme-ov-file#pcb">Hardware layout</a>
+    <span> | </span>
+  <a href="https://github.com/EmenstaNougat/ESP32-BlueJammer/edit/main/README.md#pcbs-with-esp32-and-rf-module-capability---don-anon-techs-online-shop">PCB's</a>
+    <span> | </span>
+  <a href="https://github.com/EmenstaNougat/ESP32-BlueJammer#video-tutorials-and-demonstrations">Demos</a>
+    <span> | </span>
+  <a href="https://github.com/EmenstaNougat/ESP32-BlueJammer#operation-channels">Channels</a>
+    <span> | </span>
+  <a href="https://github.com/EmenstaNougat/ESP32-BlueJammer#flashing-esp32-via-webflasher">Flashing</a>
+    <span> | </span>
+  <a href="https://github.com/EmenstaNougat/ESP32-BlueJammer#3d-printed-case">3D case</a>
+    <span> | </span>
+  <a href="https://github.com/EmenstaNougat/ESP32-BlueJammer?tab=readme-ov-file#about-the-esp32-bluejammer-and-my-source-code">About</a>
+    <span> | </span>
+  <a href="https://emensta.pages.dev">Website</a>
+    <span> | </span>
+</h4>
 
 ## ESP32-BlueJammer
 The ESP32-BlueJammer (Bluetooth jammer, BLE jammer, WiFi jammer, RC jammer) disrupts various devices using an ESP32 and nRF24 modules, causing plenty of noise and sending unnecessary packets (DoS).              
@@ -28,14 +64,14 @@ This PCB can fit an ESP32 DevKit and 2 RF-modules such as nRF24 or CC1101 etc., 
 For this one, all you need is listed below:  
 
 **Required:**  
-- ESP32 Dev Module (such as ESP32-WROOM-32U, any ESP32 should work as long as it has the needed pins, 38P is recommended!)  
-- nRF24L01+PA+LNA (2x)  
+- **[ESP32 Dev Module](https://s.click.aliexpress.com/e/_onYIVKr)** (**Recommended: ESP32-32U CP2102**, any ESP32 should work as long as it has the needed pins, 38P required!)  
+- **[nRF24L01+PA+LNA](https://s.click.aliexpress.com/e/_oma5UQx)** (2x) (**Choose: LNANRF24**)  
 
 **Additional:**  
-- TP4056 Charging Module (Micro-USB/Type-C)  
-- JST PH 2.0 Connector  
-- 3.7V Li-Ion Battery  
-- 3rd Antenna: IPEX to SMA-F pigtail  
+- **[TP4056 Charging Module (Micro-USB/Type-C)](https://s.click.aliexpress.com/e/_on7Lkvh)**  
+- **[JST PH 2.0 Connector](https://s.click.aliexpress.com/e/_ooSOhDd)**  
+- **[3.7V Li-Ion Battery](https://s.click.aliexpress.com/e/_on04mQ7)**  
+- **[3rd Antenna: **IPEX to SMA-F pigtail](https://s.click.aliexpress.com/e/_oFDpn1V)**  
 ![DIY-PCB](https://dwdwpld.pages.dev/ESP32-BlueJammer-DIY-PCB.jpg)
 [Shop](https://datechlabs.com/products/blue-esp-diy-pcb-back-order)
 
@@ -45,8 +81,8 @@ For this one, all you need is listed below:
 This is an ESP32 with RF-module breakouts (nRF24/CC1101 etc.) for experimenting.   ***Remember: It is not intended for illegal use, neither for my project!***  
 
 **Required:**  
-- nRF24L01+PA+LNA (2x)  
-Why do you need to get the nRF24's? -> the pinout can be used to connect either nRF24 or CC1101 modules for further experiments with and ESP32 chip.
+- **[nRF24L01+PA+LNA](https://s.click.aliexpress.com/e/_oma5UQx)** (2x) (**Choose: LNANRF24**)  
+Why do you need to get the nRF24's? -> the pinout can be used to connect either nRF24 or CC1101 modules for further experiments with an ESP32 chip.
 ![TheBlueESP](https://dwdwpld.pages.dev/theblueespwavychat.png)
 [Shop](https://datechlabs.com/products/the-blue-esp-pre-order)
 
@@ -92,31 +128,33 @@ Why do you need to get the nRF24's? -> the pinout can be used to connect either 
 
 
 ## Hardware - Make your own ESP32-BlueJammer
-
+(Aliexpress affilate links to support me-linked to the item names)
 ### Required:
 
-- **ESP32 Dev Module** (such as ESP32-WROOM-32U, any ESP32 should work as long as it has the needed pins, 38P is recommended!)
-- **nRF24L01+PA+LNA** (2x)
-- **10uF Capacitor** (2x) (any voltage above 5V)
-- **Prototype PCB** (at least 7x9 cm, but you will need to cut it down to fit the 3D-printed case, which fits a size of 7x5,5cm!)
+- **[ESP32 Dev Module](https://s.click.aliexpress.com/e/_onYIVKr)** (**Recommended: ESP32-32U CP2102**, any ESP32 should work as long as it has the needed pins, 38P required!)
+- **[nRF24L01+PA+LNA](https://s.click.aliexpress.com/e/_oma5UQx)** (2x) (**Choose: LNANRF24**)
+- **[10uF Capacitor](https://s.click.aliexpress.com/e/_oFvFeYX)** (2x) (any voltage above 5V)
+- **[Prototype PCB](https://s.click.aliexpress.com/e/_oBtd18j)** (at least 7x9 cm, but you will need to cut it down to fit the 3D-printed case, which fits a size of 7x5,5cm!)
 
 ### Additional:
 
-- 3rd Antenna: **IPEX to SMA-F pigtail**
-- Status LED: **3mm LED**
-- **4.7k Ohm Resistor**
+- [3rd Antenna: **IPEX to SMA-F pigtail](https://s.click.aliexpress.com/e/_oFDpn1V)**
+- [Status LED: **3mm LED](https://s.click.aliexpress.com/e/_ooxufHV)**
+- **[4.7k Ohm Resistor](https://s.click.aliexpress.com/e/_oBV1Q1Z)**
 
 ### If you're looking to add a battery:
 
-- **3.7V Li-Ion Battery**
-- **JST PH 2.0 Connector**
-- **TP4056 Charging Module (Micro-USB/Type-C)**
-- **Mini Slide Switch**
+- **[3.7V Li-Ion Battery](https://s.click.aliexpress.com/e/_on04mQ7)**
+- **[JST PH 2.0 Connector](https://s.click.aliexpress.com/e/_ooSOhDd)**
+- **[TP4056 Charging Module (Micro-USB/Type-C)](https://s.click.aliexpress.com/e/_on7Lkvh)**
+- **[Mini Slide Switch](https://s.click.aliexpress.com/e/_ooC8DXh)**
 
 ### To screw the 3D printed case together you must have:
 
 - **M3x16 Screws** (2x)
-- **M3 Nuts** (2x)
+- **M3 Nuts** (2x)  
+Get this M3 kit instead:
+- **[M3 screws&nuts kit](https://s.click.aliexpress.com/e/_oC24YXH)**
 
 
 
@@ -140,6 +178,11 @@ I've created a webflasher to make it super easy for you to flash your ESP32 chip
 - Connect your ESP32 via a data USB cable
 - Choose your firmware, chip and connect
 - Flash the firmware of your choice :D
+
+## Flashing ESP32 via binary files
+- Download the **.bin files** available on this repository
+- Use any flasher of your choice
+- Flash it :D
 
 If your ESP32 is not showing up in the device list or won't get recognized you will need to have [THESE DRIVERS INSTALLED](https://www.silabs.com/documents/public/software/CP210x_Windows_Drivers.zip) which can be found on my [Discord server](https://discord.gg/yNGhKxzqUE) too!
 
@@ -193,6 +236,15 @@ Here are both pinouts for HSPI and VSPI. You need both nRF24L01 modules connecte
 ![VisualESP32-BlueJammerSchematics](https://dwdwpld.pages.dev/ESP32-BlueJammerSchematics.png)
 
 
+
+## PCB
+
+<h3 align="center">That's how the components are placed (PCB size=7cm x 5.5cm - Larger sizes will NOT fit in the case!)</h3>
+
+![DIYPCB](https://dwdwpld.pages.dev/DIYPCB.jpg)
+
+
+
 ## 3D printed case
 #### The 3D printed case fits ONLY a PCB size of 7cm x 5.5cm and you'll need to drill out 2 holes according for the M3 screws to fit through the PCB!
 <h3 align="center">Access to the ESP32 micro-USB port, aswell as to both EN & Boot buttons</h3>
@@ -222,14 +274,6 @@ Here are both pinouts for HSPI and VSPI. You need both nRF24L01 modules connecte
 <h3 align="center">Here's a look at the V4 3 antenna version itself</h3>
 
 ![3DCaseView](https://dwdwpld.pages.dev/V4-ESP32-BlueJammer3DCaseView.png)
-
-
-
-## PCB
-
-<h3 align="center">That's how the components are placed (PCB size=7cm x 5.5cm - Larger sizes will NOT fit in the case!)</h3>
-
-![DIYPCB](https://dwdwpld.pages.dev/DIYPCB.jpg)
 
 
 

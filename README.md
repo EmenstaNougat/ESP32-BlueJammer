@@ -138,8 +138,8 @@ Why do you need to get the nRF24's? -> the pinout can be used to connect either 
 
 ### Additional:
 
-- [3rd Antenna: **IPEX to SMA-F pigtail](https://s.click.aliexpress.com/e/_oFDpn1V)**
-- [Status LED: **3mm LED](https://s.click.aliexpress.com/e/_ooxufHV)**
+- [3rd Antenna: **IPEX to SMA-F pigtail**](https://s.click.aliexpress.com/e/_oFDpn1V)
+- [Status LED: **3mm LED**](https://s.click.aliexpress.com/e/_ooxufHV)
 - **[4.7k Ohm Resistor](https://s.click.aliexpress.com/e/_oBV1Q1Z)**
 
 ### If you're looking to add a battery:

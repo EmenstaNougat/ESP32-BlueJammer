@@ -183,7 +183,7 @@ I've created a webflasher to make it super easy for you to flash your ESP32 chip
 ### via BlueFlasher.exe -Windows application (Easy)  
 <img src="https://dwdwpld.pages.dev/BlueFlasherMain.jpg" width="650" height="auto">
 
-The BlueFlasher.exe lets you flash any available firmware with not more than 3 clicks! It is always the latest up-to-date firmware!  
+The BlueFlasher.exe lets you flash any available firmware with no more than 3 clicks! It is always the latest up-to-date firmware!  
 - Download the [BlueFlasher.exe](https://github.com/EmenstaNougat/ESP32-BlueJammer/raw/refs/heads/main/BlueFlasher/BlueFlasher.exe)
 - run the application [(Image)](https://dwdwpld.pages.dev/BlueFlasherMain.jpg)
 - simply choose the COM port of your ESP32 [(Image)](https://dwdwpld.pages.dev/BlueFlasherCOM.jpg)

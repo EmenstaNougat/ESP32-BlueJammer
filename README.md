@@ -32,7 +32,7 @@
     <span> | </span>
   <a href="https://github.com/EmenstaNougat/ESP32-BlueJammer#operation-channels">Channels</a>
     <span> | </span>
-  <a href="https://github.com/EmenstaNougat/ESP32-BlueJammer#flashing-esp32-via-webflasher">Flashing</a>
+  <a href="https://github.com/EmenstaNougat/ESP32-BlueJammer?tab=readme-ov-file#flashing-the-firmware">Flashing</a>
     <span> | </span>
   <a href="https://github.com/EmenstaNougat/ESP32-BlueJammer#3d-printed-case">3D case</a>
     <span> | </span>
@@ -106,6 +106,11 @@ Why do you need to get the nRF24's? -> the pinout can be used to connect either 
 [Flashing process (if the TikTok is not available for you)](https://www.mediafire.com/file/2aj4hmf9zt7w6sw/ESP32-BlueJammerByEmensta-FlashingProcess.mp4/file)
 
 ---
+
+ESP32-BlueJammer tutorial by @ElMackflay  
+[![ESP32-BlueJammer tutorial by @ElMackflay](https://img.youtube.com/vi/1kjkWU25_qo/0.jpg)](https://www.youtube.com/watch?v=1kjkWU25_qo)  
+---
+
 
 ## Operation Channels
 - **Bluetooth** = 79CH  

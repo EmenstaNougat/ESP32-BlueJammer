@@ -255,7 +255,7 @@ Here are both pinouts for HSPI and VSPI. You need both nRF24L01 modules connecte
 
 
 ### Schematics
-![VisualESP32-BlueJammerSchematics](https://dwdwpld.pages.dev/ESP32-BlueJammerSchematics.png)
+![VisualESP32-BlueJammerSchematics](https://dwdwpld.pages.dev/tempunavailable.png)
 
 
 

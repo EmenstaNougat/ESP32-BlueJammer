@@ -45,8 +45,9 @@
 ## ESP32-BlueJammer
 The ESP32-BlueJammer (Bluetooth jammer, BLE jammer, WiFi jammer, RC jammer) disrupts various devices using an ESP32 and nRF24 modules, causing plenty of noise and sending unnecessary packets (DoS).              
                                                                     
-It interrupts:                                                       
-audio in speakers, smartphone connections, WiFi, RC Drones (etc.), IoT devices, and much more communicating on 2.4GHz!
+It interrupts:  
+**The whole 2.4GHz broadband!** Everything that works on 2.4GHz is being interfered, like:                                                       
+audio in speakers being transmitted over bluetooth, microphones on 2.4GHz, smartphone connections, WiFi, RC Drones (etc.), IoT devices, smart gadgets, wireless keyboard & mouse, just anything on 2.4GHz!
 
 Ideal for controlled disruption and security testing. Based on 2,4GHz communication.
 

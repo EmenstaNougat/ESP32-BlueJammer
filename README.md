@@ -69,7 +69,7 @@ For this one, all you need is listed below:
 - **[nRF24L01+PA+LNA](https://s.click.aliexpress.com/e/_oma5UQx)** (2x)  
 
 **Additional:**  
-- **[TP4056 Charging Module (Micro-USB/Type-C)](https://s.click.aliexpress.com/e/_on7Lkvh)**  
+- **[TP4056 Charging Module (Micro-USB/Type-C)](https://s.click.aliexpress.com/e/_oCqORHE)**  
 - **[JST PH 2.0 Connector](https://s.click.aliexpress.com/e/_ooSOhDd)**  
 - **[3.7V Li-Ion Battery](https://s.click.aliexpress.com/e/_on04mQ7)**  
 - **[3rd Antenna: **IPEX to SMA-F pigtail](https://s.click.aliexpress.com/e/_oFDpn1V)**  
@@ -152,7 +152,7 @@ ESP32-BlueJammer tutorial by @ElMackflay
 
 - **[3.7V Li-Ion Battery](https://s.click.aliexpress.com/e/_on04mQ7)**
 - **[JST PH 2.0 Connector](https://s.click.aliexpress.com/e/_ooSOhDd)**
-- **[TP4056 Charging Module (Micro-USB/Type-C)](https://s.click.aliexpress.com/e/_on7Lkvh)**
+- **[TP4056 Charging Module (Micro-USB/Type-C)](https://s.click.aliexpress.com/e/_oCqORHE)**
 - **[Mini Slide Switch](https://s.click.aliexpress.com/e/_ooC8DXh)**
 
 ### To screw the 3D printed case together you must have:

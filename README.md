@@ -66,7 +66,7 @@ For this one, all you need is listed below:
 
 **Required:**  
 - **[ESP32 Dev Module](https://s.click.aliexpress.com/e/_onYIVKr)** (**Recommended: ESP32-32U CP2102**, any ESP32 should work as long as it has the needed pins, 38P required!)  
-- **[nRF24L01+PA+LNA](https://s.click.aliexpress.com/e/_oma5UQx)** (2x) (**Choose: LNANRF24**)  
+- **[nRF24L01+PA+LNA](https://s.click.aliexpress.com/e/_oma5UQx)** (2x)  
 
 **Additional:**  
 - **[TP4056 Charging Module (Micro-USB/Type-C)](https://s.click.aliexpress.com/e/_on7Lkvh)**  
@@ -82,7 +82,7 @@ For this one, all you need is listed below:
 This is an ESP32 with RF-module breakouts (nRF24/CC1101 etc.) for experimenting.   ***Remember: It is not intended for illegal use, neither for my project!***  
 
 **Required:**  
-- **[nRF24L01+PA+LNA](https://s.click.aliexpress.com/e/_oma5UQx)** (2x) (**Choose: LNANRF24**)  
+- **[nRF24L01+PA+LNA](https://s.click.aliexpress.com/e/_oma5UQx)** (2x)  
 Why do you need to get the nRF24's? -> the pinout can be used to connect either nRF24 or CC1101 modules for further experiments with an ESP32 chip.
 ![TheBlueESP](https://dwdwpld.pages.dev/theblueespwavychat.png)
 [Shop](https://datechlabs.com/products/the-blue-esp-pre-order)
@@ -138,7 +138,7 @@ ESP32-BlueJammer tutorial by @ElMackflay
 ### Required:
 
 - **[ESP32 Dev Module](https://s.click.aliexpress.com/e/_onYIVKr)** (**Recommended: ESP32-32U CP2102**, any ESP32 should work as long as it has the needed pins)
-- **[nRF24L01+PA+LNA](https://s.click.aliexpress.com/e/_oma5UQx)** (2x) (**Choose: LNANRF24**)
+- **[nRF24L01+PA+LNA](https://s.click.aliexpress.com/e/_oma5UQx)** (2x)
 - **[10uF Capacitor](https://s.click.aliexpress.com/e/_oFvFeYX)** (2x) (any voltage above 5V)
 - **[Prototype PCB](https://s.click.aliexpress.com/e/_oBtd18j)** (at least 7x9 cm, but you will need to cut it down to fit the 3D-printed case, which fits a size of 7x5,5cm!)
 

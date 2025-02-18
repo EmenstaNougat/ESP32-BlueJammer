@@ -137,7 +137,7 @@ ESP32-BlueJammer tutorial by @ElMackflay
 (Aliexpress affilate links to support me-linked to the item names)
 ### Required:
 
-- **[ESP32 Dev Module](https://s.click.aliexpress.com/e/_onYIVKr)** (**Recommended: ESP32-32U CP2102**, any ESP32 should work as long as it has the needed pins, 38P required!)
+- **[ESP32 Dev Module](https://s.click.aliexpress.com/e/_onYIVKr)** (**Recommended: ESP32-32U CP2102**, any ESP32 should work as long as it has the needed pins)
 - **[nRF24L01+PA+LNA](https://s.click.aliexpress.com/e/_oma5UQx)** (2x) (**Choose: LNANRF24**)
 - **[10uF Capacitor](https://s.click.aliexpress.com/e/_oFvFeYX)** (2x) (any voltage above 5V)
 - **[Prototype PCB](https://s.click.aliexpress.com/e/_oBtd18j)** (at least 7x9 cm, but you will need to cut it down to fit the 3D-printed case, which fits a size of 7x5,5cm!)

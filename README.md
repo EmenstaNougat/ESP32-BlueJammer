@@ -37,7 +37,6 @@
   <a href="https://github.com/EmenstaNougat/ESP32-BlueJammer?tab=readme-ov-file#about-the-esp32-bluejammer-and-my-source-code">About</a>
     <span> | </span>
   <a href="https://emensta.pages.dev">Website</a>
-    <span> | </span>
 </h4>
 
 ## ESP32-BlueJammer

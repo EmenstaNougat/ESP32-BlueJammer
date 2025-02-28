@@ -14,8 +14,6 @@
 <a href="https://github.com/EmenstaNougat/ESP32-BlueJammer">
   <img src="https://img.shields.io/github/forks/EmenstaNougat/ESP32-BlueJammer?style=social" alt="forks - ESP32-BlueJammer">
 </a>
-<a href="https://discord.gg/emensta-s-community-1229027335534153791" style="text-decoration: none;">
-  <img src="https://discord.com/api/guilds/1229027335534153791/widget.png?style=shield" alt="Discord Shield"/>
 </div>
 
 

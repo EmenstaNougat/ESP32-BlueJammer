@@ -141,6 +141,7 @@ ESP32-BlueJammer tutorial by @ElMackflay
 
 ### Additional:
 
+- **[0.96" OLED Display I2C](https://s.click.aliexpress.com/e/_oCdkjPX)**
 - [3rd Antenna: **IPEX to SMA-F pigtail**](https://s.click.aliexpress.com/e/_oFDpn1V)
 - [Status LED: **3mm LED**](https://s.click.aliexpress.com/e/_ooxufHV)
 - **[4.7k Ohm Resistor](https://s.click.aliexpress.com/e/_oBV1Q1Z)**
@@ -242,6 +243,14 @@ Here are both pinouts for HSPI and VSPI. You need both nRF24L01 modules connecte
 |       |      Resistor     |       (+) LED        |
 |GPIO27 |      Resistor     |                      |
 
+### OLED Display I2C (additional - make sure to use the correct firmware!)
+| 0.96" OLED Display I2C | ESP32 |
+|------------------------|-------|
+|          GND           |  GND  |
+|          VCC           | 3.3V  |
+|          SCL           |GPIO 5 |
+|          SDA           |GPIO 4 |
+
 ### Battery modification (additional)
 | 3.7V Li-Ion battery | JST-PH2 connector    | TP4056 Charging Module | Mini Slide Switch | ESP32 |
 |---------------------|----------------------|------------------------|-------------------|-------|
@@ -250,6 +259,7 @@ Here are both pinouts for HSPI and VSPI. You need both nRF24L01 modules connecte
 |                     |                      | OUT +                  | Switch in         |       |
 |                     |                      | OUT -                  |                   |  GND  |
 |                     |                      |                        | Switch out        |  3V3  |
+
 
 
 ### Schematics

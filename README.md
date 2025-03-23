@@ -180,8 +180,9 @@ What is the 3rd antenna used for? The third antenna connected to the ESP32 chip 
 ![ESP32-BlueJammerFlasher](https://dwdwpld.pages.dev/ESP32BlueJammerFlasher.png)                                                                 
 I've created a webflasher to make it super easy for you to flash your ESP32 chip with the ESP32-BlueJammer firmware of your choice!  
 - Visit [ESP32-BlueJammerFlasher](https://esp32-bluejammerflasher.pages.dev)
+- First, choose the firmware type, "Generic" or "0.96" OLED"
+- choose the firmware you want to flash
 - Connect your ESP32 via a data USB cable
-- Choose your firmware, chip and connect
 - Flash the firmware of your choice :D
 
 ### via BlueFlasher.exe -Windows application (Easy)  

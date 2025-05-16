@@ -129,6 +129,47 @@ ESP32-BlueJammer tutorial by @ElMackflay
 
 
 
+## How to use?
+To disrupt various channels on the 2.4GHz band, do the following to enable your ESP32-BlueJammer:
+- Every mode starts right away after powering on the device! There is no additional button to start the attack!  
+- It simply jams right away once powered!
+
+### Combo-Channel-Select_BT-BLE-WiFi-RC firmware:
+- use the "Boot" button on the ESP32 to switch between the channel modes on the Combo-Firmware!
+- the OLED will display your current operation channel
+- the status LED let's you know about the current state you're in:  
+1 blink = BT  
+2 blinks = BLE  
+3 blinks = WiFi  
+4 blinks = RC  
+- the serial output of your ESP32-BlueJammer will output the following lines when switching mode:  
+State 1: Bluetooth  
+State 2: Bluetooth Low Energy  
+State 3: WiFi  
+State 4: RC  
+
+### all other firmware:
+- the firmware you choose indicates the operation channel by its name, this means:
+
+Bluetooth_80_CH - jams classic Bluetooth  
+Frequency Range: 2.402 GHz to 2.480 GHz  
+
+BluetoothLowEnergy_40_CH - jams Bluetooth Low Energy  
+Frequency Range: 2.400 GHz to 2.4835 GHz  
+
+Bluetooth-BluetoothLowEnergy_40-80_CH - jams classic Bluetooth & Bluetooth Low Energy  
+Frequency Range: 2.402 GHz to 2.480 GHz & 2.400 GHz to 2.4835 GHz  
+
+Bluetooth-WiFi_14-80_CH - jams classic Bluetooth & WiFi  
+Frequency Range: 2.402 GHz to 2.480 GHz & 2.400 GHz to 2.4835 GHz  
+
+WiFi_14_CH - jams WiFi  
+Frequency Range: 2.400 GHz to 2.4835 GHz  
+
+2.4GHzRemoteControl(Drones etc.)_1-125_CH - jams RC (Drones etc.)  
+  Frequency Range: 2.400 GHz to 2.525 GHz  
+
+
 
 ## Hardware - Make your own ESP32-BlueJammer
 (Aliexpress affilate links to support me-linked to the item names)

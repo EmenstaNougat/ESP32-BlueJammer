@@ -55,23 +55,30 @@ Remember that jamming is illegal and should not be used with malicious intent!
 
 
 
-## PCB's with ESP32 and RF-module capability - [Don Anon Tech's online-shop](https://datechlabs.com)
-**DIY-PCB:**  "Blue ESP DIY PCB"  
-This PCB can fit an ESP32 DevKit and 2 RF-modules such as nRF24 or CC1101 etc., you can use it in combinations (1x nRF, 1x CC1101) to create several things.  
-***Remember: It is not intended for illegal use, neither for my project!***  
+## PCB's with ESP32 and RF-module capability
+**ESP32-RF DIY-PCB:**
+This PCB can fit an ESP32-wroom-32U/E DevKitC and 2 nRF-modules, along with an 0.96" I2C OLED, LEDs and switches.
+***Remember: It is not intended for illegal use!***  
 For this one, all you need is listed below:  
 
 **Required:**  
 - **[ESP32 Dev Module](https://s.click.aliexpress.com/e/_onYIVKr)** (**Recommended: ESP32-32U CP2102**, any ESP32 should work as long as it has the needed pins, 38P required!)  
 - **[nRF24L01+PA+LNA](https://s.click.aliexpress.com/e/_oma5UQx)** (2x)  
+- **[10-100uF Capacitor](https://s.click.aliexpress.com/e/_oFvFeYX)** (2x) (any voltage above 5V)  
+- **[0.96" OLED Display I2C](https://s.click.aliexpress.com/e/_oCdkjPX)**  
+- **[LEDs: 3mm LED](https://s.click.aliexpress.com/e/_ooxufHV)**  
+- **[Resistor kit](https://s.click.aliexpress.com/e/_oCoJ7LO)**  
+- R1 = 22kOhm
+- R2, R3, R5, R7 = 47kOhm
+- R4, R6 = 100kOhm
 
 **Additional:**  
 - **[TP4056 Charging Module (Micro-USB/Type-C)](https://s.click.aliexpress.com/e/_oCqORHE)**  
 - **[JST PH 2.0 Connector](https://s.click.aliexpress.com/e/_ooSOhDd)**  
 - **[3.7V Li-Ion Battery](https://s.click.aliexpress.com/e/_on04mQ7)**  
 - **[3rd Antenna: **IPEX to SMA-F pigtail](https://s.click.aliexpress.com/e/_oFDpn1V)**  
-![DIY-PCB](https://dwdwpld.pages.dev/ESP32-BlueJammer-DIY-PCB.jpg)
-[Shop](https://datechlabs.com/products/blue-esp-diy-pcb-back-order)
+![image](https://github.com/user-attachments/assets/601b72e8-587a-43e0-8d2a-c99cbdce4a21)
+[Shop](https://www.elecrow.com/esp32-rf-diy-pcb.html)
 
 ---
 
@@ -177,7 +184,7 @@ Frequency Range: 2.400 GHz to 2.4835 GHz
 
 - **[ESP32 Dev Module](https://s.click.aliexpress.com/e/_onYIVKr)** (**Recommended: ESP32-32U CP2102**, any ESP32 should work as long as it has the needed pins)
 - **[nRF24L01+PA+LNA](https://s.click.aliexpress.com/e/_oma5UQx)** (2x)
-- **[10uF Capacitor](https://s.click.aliexpress.com/e/_oFvFeYX)** (2x) (any voltage above 5V)
+- **[10-100uF Capacitor](https://s.click.aliexpress.com/e/_oFvFeYX)** (2x) (any voltage above 5V)
 - **[Prototype PCB](https://s.click.aliexpress.com/e/_oBtd18j)** (at least 7x9 cm, but you will need to cut it down to fit the 3D-printed case, which fits a size of 7x5,5cm!)
 
 ### Additional:

@@ -24,7 +24,7 @@
     <span> | </span>
   <a href="https://github.com/EmenstaNougat/ESP32-BlueJammer?tab=readme-ov-file#pcb">Hardware layout</a>
     <span> | </span>
-  <a href="https://github.com/EmenstaNougat/ESP32-BlueJammer?tab=readme-ov-file#pcbs-with-esp32-and-rf-module-capability---don-anon-techs-online-shop">PCB's</a>
+  <a href="https://github.com/EmenstaNougat/ESP32-BlueJammer?tab=readme-ov-file#pcbs-with-esp32-and-rf-module-capability">PCB's</a>
     <span> | </span>
   <a href="https://github.com/EmenstaNougat/ESP32-BlueJammer#video-tutorials-and-demonstrations">Demos</a>
     <span> | </span>

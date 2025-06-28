@@ -68,16 +68,16 @@ For this one, all you need is listed below:
 - **[0.96" OLED Display I2C](https://s.click.aliexpress.com/e/_oCdkjPX)**  
 - **[LEDs: 3mm LED](https://s.click.aliexpress.com/e/_ooxufHV)**  
 - **[Resistor kit](https://s.click.aliexpress.com/e/_oCoJ7LO)**  
-- R1 = 22kOhm
-- R2, R3, R5, R7 = 47kOhm
-- R4, R6 = 100kOhm
+- R1 = 22kOhm  
+- R2, R3, R5, R7 = 47kOhm  
+- R4, R6 = 100kOhm  
 
 **Additional:**  
 - **[TP4056 Charging Module (Micro-USB/Type-C)](https://s.click.aliexpress.com/e/_oCqORHE)**  
 - **[JST PH 2.0 Connector](https://s.click.aliexpress.com/e/_ooSOhDd)**  
 - **[3.7V Li-Ion Battery](https://s.click.aliexpress.com/e/_on04mQ7)**  
 - **[3rd Antenna: **IPEX to SMA-F pigtail](https://s.click.aliexpress.com/e/_oFDpn1V)**  
-![image](https://github.com/user-attachments/assets/601b72e8-587a-43e0-8d2a-c99cbdce4a21)
+![image](https://github.com/user-attachments/assets/601b72e8-587a-43e0-8d2a-c99cbdce4a21)  
 [Shop](https://www.elecrow.com/esp32-rf-diy-pcb.html)
 
 ---

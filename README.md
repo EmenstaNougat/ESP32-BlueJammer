@@ -68,7 +68,7 @@ For this one, all you need is listed below:
 - **[0.96" OLED Display I2C](https://s.click.aliexpress.com/e/_oCdkjPX)**  
 - **[LEDs: 3mm LED](https://s.click.aliexpress.com/e/_ooxufHV)**  
 - **[Resistor kit](https://s.click.aliexpress.com/e/_oCoJ7LO)**  
-- R1 = 22kOhm  
+- R1 = 1kOhm  
 - R2, R3, R5, R7 = 47kOhm  
 - R4, R6 = 100kOhm  
 

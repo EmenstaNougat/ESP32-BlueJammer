@@ -65,7 +65,8 @@ For this one, all you need is listed below:
 - **[ESP32 Dev Module](https://s.click.aliexpress.com/e/_onYIVKr)** (**Recommended: ESP32-32U CP2102**, any ESP32 should work as long as it has the needed pins, 38P required!)  
 - **[nRF24L01+PA+LNA](https://s.click.aliexpress.com/e/_oma5UQx)** (2x)  
 - **[10-100uF Capacitor](https://s.click.aliexpress.com/e/_oFvFeYX)** (2x) (any voltage above 5V)  
-- **[0.96" OLED Display I2C](https://s.click.aliexpress.com/e/_oCdkjPX)**  
+- **[0.96" OLED Display I2C](https://s.click.aliexpress.com/e/_oCdkjPX)**
+- **[Slide Switch](https://s.click.aliexpress.com/e/_oCWSw1m)** (2x)
 - **[LEDs: 3mm LED](https://s.click.aliexpress.com/e/_ooxufHV)**  
 - **[Resistor kit](https://s.click.aliexpress.com/e/_oCoJ7LO)**  
 - R1 = 1kOhm  

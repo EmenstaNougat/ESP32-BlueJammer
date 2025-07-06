@@ -57,7 +57,7 @@ Remember that jamming is illegal and should not be used with malicious intent!
 
 ## PCB's with ESP32 and RF-module capability
 **ESP32-RF DIY-PCB:**
-This PCB can fit an ESP32-wroom-32U/E DevKitC and 2 nRF-modules, along with an 0.96" I2C OLED, LEDs and switches.
+This PCB can fit an ESP32-wroom-32U/E DevKitC and 2 nRF-modules, along with an 0.96" I2C OLED, LEDs and switches.  
 ***Remember: It is not intended for illegal use!***  
 For this one, all you need is listed below:  
 
@@ -84,7 +84,8 @@ For this one, all you need is listed below:
 ---
 
 **PRE-SOLDERED:**  "The Blue ESP"  
-This is an ESP32 with RF-module breakouts (nRF24/CC1101 etc.) for experimenting.   ***Remember: It is not intended for illegal use, neither for my project!***  
+This is an ESP32 with RF-module breakouts (nRF24/CC1101 etc.) for experimenting.  
+***Remember: It is not intended for illegal use, neither for my project!***  
 
 **Required:**  
 - **[nRF24L01+PA+LNA](https://s.click.aliexpress.com/e/_oma5UQx)** (2x)  

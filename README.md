@@ -46,10 +46,10 @@ It interrupts:
 **The whole 2.4GHz broadband!** Everything that works on 2.4GHz is being interfered, like:                                                       
 audio in speakers being transmitted over bluetooth, microphones on 2.4GHz, smartphone connections, WiFi, RC Drones (etc.), IoT devices, smart gadgets, wireless keyboard & mouse, just anything on 2.4GHz!
 
-Ideal for controlled disruption and security testing. Based on 2,4GHz communication.
+Ideal for controlled disruption and security testing. Based on 2.4GHz communication.
 
-It has a big range (over 30Meters+ - may vary on your antenna and hardware setup!) on newest Bluetooth versions with casual 2.4GHz antennas, you can easily increase this aswell by taking some simple "bigger" router antennas.
-An amplifier (2.4GHz) may be an good option too!
+It has a big range (over 30Meters+ - may vary on your antenna and hardware setup!) on newest Bluetooth versions with casual 2.4GHz antennas, you can easily increase this as well by taking some simple "bigger" router antennas.
+An amplifier (2.4GHz) may be a good option too!
 
 Remember that jamming is illegal and should not be used with malicious intent!
 
@@ -146,7 +146,7 @@ To disrupt various channels on the 2.4GHz band, do the following to enable your 
 ### Combo-Channel-Select_BT-BLE-WiFi-RC firmware:
 - use the "Boot" button on the ESP32 to switch between the channel modes on the Combo-Firmware!
 - the OLED will display your current operation channel
-- the status LED let's you know about the current state you're in:  
+- the status LED lets you know about the current state you're in:  
 1 blink = BT  
 2 blinks = BLE  
 3 blinks = WiFi  
@@ -181,7 +181,7 @@ Frequency Range: 2.400 GHz to 2.4835 GHz
 
 
 ## Hardware - Make your own ESP32-BlueJammer
-(Aliexpress affilate links to support me-linked to the item names)
+(Aliexpress affiliate links to support me-linked to the item names)
 ### Required:
 
 - **[ESP32 Dev Module](https://s.click.aliexpress.com/e/_onYIVKr)** (**Recommended: ESP32-32U CP2102**, any ESP32 should work as long as it has the needed pins)
@@ -219,7 +219,7 @@ The average range with standard known chinese 2.4GHz antennas is about 20-30mete
 
 2 antennas are for the HSPI and VSPI nRF24 modules!
 
-The 3rd antenna is plugged to the ESP32 chip itself, wither via IPEX or soldered onto it's own antenna, if your ESP32 does not provide any option to add that one, it obviously won't be possible!
+The 3rd antenna is plugged to the ESP32 chip itself, whether via IPEX or soldered onto its own antenna, if your ESP32 does not provide any option to add that one, it obviously won't be possible!
 What is the 3rd antenna used for? The third antenna connected to the ESP32 chip itself helps with reliable long-range interference. It ensures a better intermediate signal and stability when jamming!
 (The third antenna is your own decision and therefore optional!)
 
@@ -328,7 +328,7 @@ Here are both pinouts for HSPI and VSPI. You need both nRF24L01 modules connecte
 
 ## 3D printed case
 #### The 3D printed case fits ONLY a PCB size of 7cm x 5.5cm and you'll need to drill out 2 holes according for the M3 screws to fit through the PCB!
-<h3 align="center">Access to the ESP32 micro-USB port, aswell as to both EN & Boot buttons</h3>
+<h3 align="center">Access to the ESP32 micro-USB port, as well as to both EN & Boot buttons</h3>
 
 ![ESP32MicroUSB](https://dwdwpld.pages.dev/ESP32-BlueJammerMicroUsb.jpg)
 

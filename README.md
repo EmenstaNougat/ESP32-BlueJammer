@@ -36,11 +36,11 @@
     <span> | </span>
   <a href="https://github.com/EmenstaNougat/ESP32-BlueJammer?tab=readme-ov-file#about-the-esp32-bluejammer-and-my-source-code">About</a>
     <span> | </span>
+  <a href="https://github.com/EmenstaNougat/ESP32-BlueJammer?tab=readme-ov-file#support-me">Support me</a>
+    <span> | </span>
   <a href="https://emensta.pages.dev">Website</a>
 </h4>
-    <span> | </span>
-  <a href="https://github.com/EmenstaNougat/ESP32-BlueJammer?tab=readme-ov-file#support-me">Support me</a>
-</h4>
+
 
 ## ESP32-BlueJammer
 The ESP32-BlueJammer (Bluetooth jammer, BLE jammer, WiFi jammer, RC jammer) disrupts various devices using an ESP32 and nRF24 modules, causing plenty of noise and sending unnecessary packets (DoS).              

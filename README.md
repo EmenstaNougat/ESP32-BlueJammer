@@ -383,6 +383,8 @@ You can join my Discord server [here](https://discord.gg/emensta)!
 ## Portfolio and all my links
 Here you can visit my Portfolio, you'll find everything that you're looking for [here](https://emensta.pages.dev)!
 
+## Support me
+Via [this link](https://ko-fi.com/emensta), you can leave a tip to keep me motivated developing future projects! Thank you for your support :)
 
 
 <h1 align="center"> DISCLAIMER </h1>

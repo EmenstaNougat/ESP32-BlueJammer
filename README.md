@@ -313,11 +313,6 @@ Here are both pinouts for HSPI and VSPI. You need both nRF24L01 modules connecte
 
 
 
-### Schematics
-![VisualESP32-BlueJammerSchematics](https://dwdwpld.pages.dev/tempunavailable.jpg)
-
-
-
 ## PCB
 
 <h3 align="center">That's how the components are placed (PCB size=7cm x 5.5cm - Larger sizes will NOT fit in the case!)</h3>

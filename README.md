@@ -70,7 +70,7 @@ For this one, all you need is listed below:
 - **[10-100uF Capacitor](https://s.click.aliexpress.com/e/_oFvFeYX)** (2x) (any voltage above 5V)  
 - **[0.96" OLED Display I2C](https://s.click.aliexpress.com/e/_oCdkjPX)**
 - **[Slide Switch](https://s.click.aliexpress.com/e/_c4eQKm5D)** (2x)
-- **[LEDs: 3mm LED](https://s.click.aliexpress.com/e/_ooxufHV)**  
+- **[LEDs: 3mm LED box](https://s.click.aliexpress.com/e/_c4dAH9sF)**  
 - **[Resistor kit](https://s.click.aliexpress.com/e/_oCoJ7LO)**  
 - R1 = 1kOhm  
 - R2, R3, R5, R7 = 47kOhm  

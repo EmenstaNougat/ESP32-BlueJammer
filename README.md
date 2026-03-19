@@ -2,6 +2,7 @@
 <div align="center">
   <img src="https://dwdwpld.pages.dev/ESP32-BlueJammerBy@emensta.jpg" alt="ESP32-BlueJammer">
   <h3 align="center">Jamming is ILLEGAL! Educational purposes only!</h3>
+  <h3 align="center"><a href="https://github.com/EmenstaNougat/BlueJammer-V2">BlueJammer-V2</a>, <a href="https://github.com/EmenstaNougat/BW16-BlueJammer">BW16-BlueJammer</a> & <a href="https://github.com/EmenstaNougat/ZeroWave_FlipperZero-BlueJammer">ZeroWave for Flipper Zero</a> released!</h3>
 </div>
 
 <div align="center">

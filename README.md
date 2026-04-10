@@ -290,15 +290,43 @@ Here are both pinouts for HSPI and VSPI. You need both nRF24L01 modules connecte
 |          SCL           |GPIO 5 |
 |          SDA           |GPIO 4 |
 
-### Battery modification (additional)
-| 3.7V Li-Ion battery | JST-PH2 connector    | TP4056 Charging Module | Mini Slide Switch | ESP32 |
-|---------------------|----------------------|------------------------|-------------------|-------|
-| (+) Battery         | (+) JST-PH2          | Bat +                  |                   |       |
-| (-) Battery         | (-) JST-PH2          | Bat -                  |                   |       |
-|                     |                      | OUT +                  | Switch in         |       |
-|                     |                      | OUT -                  |                   |  GND  |
-|                     |                      |                        | Switch out        |  3V3  |
+# Battery Modification (Additional)
 
+> **Stop.** Before you wire anything, read this section. The original wiring guide has a mistake that will damage your ESP32.
+
+---
+
+## The Problem With the Original Wiring Table
+
+The table routes the TP4056 OUT+ straight to the ESP32 3V3 pin. Do not do this.
+
+A 3.7V Li-Ion/Li-Po cell charges to **4.2V** when full. The ESP32 runs at 3.3V and its power rail tops out at 3.6V **ABSOLUTE** maximum. Putting 4.2V on the 3V3 pin blows past that limit, and more importantly, the 3V3 pin **bypasses the onboard LDO regulator completely** so nothing is there to protect the chip. It will run hot, degrade faster, and eventually die.
+
+---
+
+## The Fix: Use 5v/VIN, Not 3V3
+
+The 5v/VIN pin feeds into the devboard's onboard LDO regulator (usually an AMS1117-3.3 or similar), which takes whatever comes in and outputs a clean regulated 3.3V to the ESP32. That regulator is the whole point. Use it.
+
+### Corrected Wiring
+
+| 3.7V Li-Ion Battery | JST-PH2 Connector | TP4056 Charging Module | Mini Slide Switch | ESP32 |
+|---------------------|-------------------|------------------------|-------------------|-------|
+| (+) Battery         | (+) JST-PH2       | Bat +                  |                   |       |
+| (-) Battery         | (-) JST-PH2       | Bat -                  |                   |       |
+|                     |                   | OUT +                  | Switch in         |       |
+|                     |                   | OUT -                  |                   | GND   |
+|                     |                   |                        | Switch out        | **5v/VIN** |
+
+The only change from the original is the last cell: `5v/VIN` instead of `3V3`. That one pin makes the difference between a working circuit and a dead MCU.
+
+---
+
+## Disconnect the Battery Before Plugging in USB
+
+This is important. If the battery is still connected when you plug into your PC, you are mixing two power sources: the USB 5V rail and whatever the battery is putting out. That can backfeed voltage into the TP4056, into the USB port, or both. A LiPo is only meant to be charged at 4.2V through a proper CC/CV charger. A USB port is not that, and having both live at the same time is asking for trouble.
+
+The slide switch in this circuit is there for a reason. Turn it off before you plug in USB. Every time.
 
 
 ## PCB

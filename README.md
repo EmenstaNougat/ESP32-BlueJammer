@@ -372,5 +372,5 @@ Via [this link](https://ko-fi.com/emensta), you can leave a tip to keep me motiv
 
 <h1 align="center"> DISCLAIMER </h1>
 
-<h4 align="center">Please note that the use of this tool is entirely at your own risk. It is intended strictly for educational purposes and should not be used for any illegal or unethical activities. Jamming is illegal and can get you in big trouble!</h4>
-<h4 align="center">I'm not responsible for your actions! </h4>
+<h4 align="center">Please note that the use of this tool is entirely at your own risk. It is intended strictly for educational purposes and should not be used for any illegal or unethical activities. No legal liability lies with me in case of any mishappening or accident. Jamming is illegal and can get you in big trouble!</h4>
+<h4 align="center">I'm not responsible for any of your actions and I am not liable for any incident! </h4>
